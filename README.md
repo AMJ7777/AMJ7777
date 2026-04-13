@@ -1,98 +1,144 @@
 <div align="center">
 
-<!-- Animated Header using Capsule Render -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:7F77DD,100:1D9E75&height=220&section=header&text=M.%20Asad%20Mehdi&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Builder%20%7C%20Showman%20of%20Tech&descAlignY=60&descSize=20)
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=M.%20Asad%20Mehdi&fontSize=60&fontColor=58a6ff&fontAlignY=38&desc=AMJ7777%20%7C%20Full-Stack%20Engineer&descAlignY=60&descColor=8b949e&animation=fadeIn" width="100%" />
 
-<!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7F77DD&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Hey+there!+I'm+Asad+%F0%9F%91%8B;Full-Stack+Developer+%7C+PHP+%7C+Python+%7C+Kotlin;Building+the+future%2C+one+commit+at+a+time+%F0%9F%9A%80;If+you+never+try%2C+you+will+never+know+%E2%9C%A8)](https://git.io/typing-svg)
+<!-- Animated Typing SVG -->
+<a href="https://github.com/AMJ7777">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;Building+Things+That+Matter+%E2%9C%A8;PHP+%7C+Python+%7C+Kotlin+%7C+TypeScript;C%2B%2B+%7C+C%23+%7C+JavaScript+%7C+Node.js;%22If+you+never+try%2C+you'll+never+know%22" alt="Typing SVG" />
+</a>
 
 <br/>
 
-<!-- Social / Connect Badges -->
-[![GitHub](https://img.shields.io/badge/GitHub-AMJ7777-7F77DD?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AMJ7777)
-[![Profile Views](https://komarev.com/ghpvc/?username=AMJ7777&style=for-the-badge&color=7F77DD&label=PROFILE+VIEWS)](https://github.com/AMJ7777)
+<!-- Profile Views Counter -->
+<img src="https://komarev.com/ghpvc/?username=AMJ7777&label=Profile%20Views&color=58a6ff&style=flat-square" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/AMJ7777?label=Followers&style=flat-square&color=58a6ff" alt="Followers" />
+<img src="https://img.shields.io/github/stars/AMJ7777?label=Stars%20Earned&style=flat-square&color=f0c040" alt="Stars" />
 
 </div>
 
 ---
 
-## 🌟 About Me
+<!-- About Me Section -->
+<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"/>
 
-```typescript
-const asad: Developer = {
-  name:       "M. Asad Mehdi",
-  alias:      "AMJ7777",
-  location:   "Pakistan 🇵🇰",
-  motto:      "If you never try, you will never know",
-  focus:      ["Full-Stack Development", "Systems Programming", "NLP & ML"],
-  languages:  ["PHP", "Python", "Kotlin", "TypeScript", "C++", "C#"],
-  currentlyBuilding: "Something awesome... 🔨",
-  funFact:    "I treat code like theater — architecture is the stage, logic is the script.",
-};
+### 🧠 About Me
+
+```yaml
+name: M. Asad Mehdi
+alias: AMJ7777
+location: Pakistan 🇵🇰
+role: Full-Stack Developer
+focus:
+  - Web Applications
+  - Systems Programming
+  - Mobile Development
+  - NLP & Machine Learning
+philosophy: "If you never try, you will never know"
+currently_building:
+  - Procurement systems
+  - Secure chat frameworks
+  - AI-powered tools
+open_to: Collaborations & Opportunities
 ```
+
+<br clear="right"/>
 
 ---
 
-## 🚀 Tech Stack & Tools
+<!-- Tech Stack -->
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
-### Languages
+**Languages**
+
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
-### Frontend & Backend
+**Frameworks & Tools**
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-
-### Databases & Tools
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![SFML](https://img.shields.io/badge/SFML-8CC445?style=for-the-badge&logo=sfml&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**AI & Data Science**
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-3c7ebf?style=for-the-badge&logo=python&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 
 </div>
 
 ---
 
-## 🏆 Featured Projects
+## 🚀 Featured Projects
 
 <div align="center">
 
-| Project | Description | Stack |
-|:---|:---|:---|
-| 🛒 **[ProcurePro360](https://github.com/AMJ7777/ProcurePro360)** | Streamlined procurement management with real-time tracking & automated alerts | `Node.js` `Express` `MongoDB` `React` |
-| 🎬 **[Genre-Genie](https://github.com/AMJ7777/Genre-Genie-Movie-Summary-Analyzer)** | NLP-powered movie genre predictor with GUI, TTS, and data visualization | `Python` `scikit-learn` `NLTK` `Tkinter` |
-| 🌀 **[Labyrinth-Legacy](https://github.com/AMJ7777/Labyrinth-Legacy)** | Procedurally-generated maze game with AVL-tree inventory system | `C++` `SFML` |
-| 🕹️ **[Dodge-em](https://github.com/AMJ7777/Dodge-em)** | Arcade maze game with AI opponents, animated sprites & level progression | `C++` `SFML` |
-| ♟️ **[Chess](https://github.com/AMJ7777/Chess)** | Complete CLI chess engine — fully playable with multiple versions | `C++` |
-| 🌍 **[Tour Management System](https://github.com/AMJ7777/Tour-Management-System)** | All-in-one travel agency platform with booking, services & analytics | `C#` `.NET` |
+| 🏆 Project | 💡 Description | 🔧 Stack |
+|---|---|---|
+| [**ProcurePro360**](https://github.com/AMJ7777/ProcurePro360) | Streamlined procurement management with real-time tracking & automated alerts | `Node.js` `React` `MongoDB` `Express` |
+| [**Genre Genie**](https://github.com/AMJ7777/Genre-Genie-Movie-Summary-Analyzer) | NLP-powered movie genre predictor with GUI, TTS & visualizations | `Python` `scikit-learn` `NLTK` `Tkinter` |
+| [**Labyrinth Legacy**](https://github.com/AMJ7777/Labyrinth-Legacy) | Procedurally generated maze game with AVL tree inventory system | `C++` `SFML` |
+| [**Dodge-em**](https://github.com/AMJ7777/Dodge-em) | Arcade maze game with animated sprites, AI opponents & scoring | `C++` `SFML` |
+| [**Chess**](https://github.com/AMJ7777/Chess) | Complete CLI-based chess engine with full rule implementation | `C++` |
+| [**Tour Management System**](https://github.com/AMJ7777/Tour-Management-System) | End-to-end travel agency platform with bookings & analytics | `C#` `.NET` |
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AMJ7777&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AMJ7777&layout=compact&langs_count=8&theme=tokyonight&border_radius=12"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AMJ7777&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AMJ7777&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e"/>
 
 </div>
 
 <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AMJ7777&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=f0c040&currStreakNum=58a6ff&sideNums=58a6ff&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e" alt="GitHub Streak" />
+</div>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=AMJ7777&theme=tokyonight&border_radius=12&date_format=M%20j%5B%2C%20Y%5D)
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AMJ7777&theme=darkhub&no-frame=true&no-bg=true&column=6&margin-w=10" alt="Trophies" />
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AMJ7777&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f0c040&area=true&area_color=1a1a2e&hide_border=true" alt="Contribution Graph" width="100%" />
+</div>
+
+---
+
+## 🎯 Current Focus
+
+<div align="center">
+
+```
+🔭 Currently working on   →  Secure messaging frameworks & web apps
+🌱 Currently learning     →  Cloud architecture & advanced ML techniques  
+👯 Looking to collaborate →  Open-source projects & innovative startups
+💬 Ask me about           →  Full-stack dev, game dev with SFML, NLP in Python
+⚡ Fun fact               →  I've built everything from chess engines to procurement systems
+```
 
 </div>
 
@@ -101,31 +147,30 @@ const asad: Developer = {
 ## 🐍 Contribution Snake
 
 <div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/AMJ7777/AMJ7777/output/github-contribution-grid-snake-dark.svg)
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AMJ7777/AMJ7777/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AMJ7777/AMJ7777/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AMJ7777/AMJ7777/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
 
-> **To enable the snake:** Go to **Settings → Actions → General** and enable "Allow all actions". Then create `.github/workflows/snake.yml` in your profile repo with the content below:
-
 <details>
-<summary>📋 Click to copy snake workflow</summary>
+<summary>⚙️ Enable the Snake Animation (click to expand)</summary>
+
+Create `.github/workflows/snake.yml` in your profile repo:
 
 ```yaml
-name: Generate Snake Animation
-
+name: Generate Snake
 on:
-  schedule:
-    - cron: "0 0 * * *"
+  schedule: [{cron: "0 0 * * *"}]
   workflow_dispatch:
-
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk@v3
+      - uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: AMJ7777
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
@@ -141,43 +186,21 @@ jobs:
 
 ---
 
-## 🎯 2025 Goals
-
-- [ ] 🌐 Launch a production-ready SaaS product
-- [ ] 🤖 Dive deeper into ML/AI engineering
-- [ ] 📱 Publish an Android app with Kotlin
-- [ ] ⭐ Hit 50 GitHub stars across projects
-- [ ] 🔐 Build a fully end-to-end encrypted chat app
-
----
-
-## 💬 Philosophy
+## 💬 Quote I Live By
 
 <div align="center">
 
-> *"Code is art. Architecture is theater. Excellence is the spotlight."*
->
 > *"If you never try, you will never know."*
+>
+> — **AMJ7777**
 
 </div>
 
 ---
-
-## 📫 Let's Connect
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AMJ7777)
-
-</div>
-
----
-
-<div align="center">
 
 <!-- Footer Wave -->
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1D9E75,100:7F77DD&height=120&section=footer)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer&animation=fadeIn" width="100%" />
 
-**Made with ❤️ by M. Asad Mehdi · Building the future, one line at a time ✨**
-
+<div align="center">
+  <sub>⭐ Star my repos if you find them useful! | Made with ❤️ by <a href="https://github.com/AMJ7777">AMJ7777</a></sub>
 </div>
