@@ -6,6 +6,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,40:1a1a00,100:f5c800&height=220&section=header&text=AMJ7777&fontSize=72&fontColor=f5c800&fontAlignY=38&desc=M.%20Asad%20Mehdi&descAlignY=62&descColor=ffffff&animation=fadeIn&fontAlign=50" width="100%"/>
 
 <!-- Batman Logo ASCII -->
+<div align="center">
 ```
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
@@ -38,6 +39,8 @@
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
 ```
+</div>
+
 
 <!-- Animated Typing -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=800&color=F5C800&background=0A0A0A00&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%F0%9F%A6%87;%22Insanity+is+running+the+same+code+again+and+again%22;PHP+%7C+Python+%7C+Kotlin+%7C+TypeScript;C%2B%2B+%7C+C%23+%7C+Node.js+%7C+React;%22The+night+is+darkest+before+the+deploy%22;Building+systems+that+strike+fear+into+bugs" alt="Typing SVG" />
