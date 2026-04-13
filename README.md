@@ -52,10 +52,6 @@
 
 </div>
 
----
-
-<img align="right" width="360" src="https://media0.giphy.com/media/6msuf9VmJ2vMA/giphy.gif" alt="Lego Batman"/>
-
 ### 🦇 The Dossier
 
 ```yaml
