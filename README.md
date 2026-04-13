@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm AMJ7777 👋
 
-<!--
-**AMJ7777/AMJ7777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate full-stack developer and showman of the tech world! 🎭✨
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
+[![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=PHP&logoColor=white)](https://www.php.net/)
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)](https://www.python.org/)
+[![Kotlin](https://img.shields.io/badge/-Kotlin-7F52B3?style=flat-square&logo=Kotlin&logoColor=white)](https://kotlinlang.org/)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=TypeScript&logoColor=white)](https://www.typescriptlang.org/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Featured Projects
+- **[Firapp](https://github.com/AMJ7777/Firapp)** - PHP & Kotlin powerhouse
+- **[flexpulse](https://github.com/AMJ7777/flexpulse)** - Python registration system
+- **[securechat-skeleton](https://github.com/AMJ7777/securechat-skeleton)** - Secure messaging framework
+- **[Socially](https://github.com/AMJ7777/Socially)** - Kotlin social platform
+
+## 🎪 The Showman's Philosophy
+> "Code is art. Architecture is theater. Excellence is the spotlight."
+
+---
+**Made with ❤️ by AMJ7777 | Building the future, one line of code at a time** ✨
