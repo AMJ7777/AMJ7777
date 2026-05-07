@@ -6,7 +6,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,40:1a1a00,100:f5c800&height=220&section=header&text=AMJ7777&fontSize=72&fontColor=f5c800&fontAlignY=38&desc=M.%20Asad%20Mehdi&descAlignY=62&descColor=ffffff&animation=fadeIn&fontAlign=50" width="100%"/>
 
 <!-- Animated typing -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=800&color=F5C800&background=0A0A0A00&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;AI+Engineer+%7C+Cloud+%7C+Cybersecurity;Insanity+is+running+the+same+code+again+and+again+,+expecting+different+results;PHP+%7C+Python+%7C+Kotlin+%7C+TypeScript;C%2B%2B+%7C+C%23+%7C+Node.js+%7C+React;%22Iterate+fast%2C+document+what+matters%22;Building+scalable+systems+and+shipping+with+confidence" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=800&color=F5C800&background=0A0A0A00&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;AI+Engineer+%7C+Cloud+%7C+Cybersecurity;%22Insanity+is+running+the+same+code;again+and+again,+expecting+different+results%22;PHP+%7C+Python+%7C+Kotlin+%7C+TypeScript;C%2B%2B+%7C+C%23+%7C+Node.js+%7C+React;%22Iterate+fast%2C+document+what+matters%22;Building+scalable+systems+and+shipping+with+confidence" alt="Typing SVG" />
 
 <br/>
 
